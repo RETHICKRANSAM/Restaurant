@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "java": "powershell -NoProfile -ExecutionPolicy Bypass -File \"$workspaceRoot\\.vscode\\run-java.ps1\""
+    }
+}
